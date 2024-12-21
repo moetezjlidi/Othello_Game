@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-12-12T21:43:43" hostname="Moe" time="0.024">
+  <properties/>
+  <testcase name="testToggleTurn()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.002"/>
+  <testcase name="testGetCurrentPlayer_Player1Turn()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.003"/>
+  <testcase name="testGetCurrentPlayer_Player2Turn()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.001"/>
+  <testcase name="testGetTurnCounter()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.002"/>
+  <testcase name="testIsPlayer2Turn()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.002"/>
+  <testcase name="testSetPlayer2Turn()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.003"/>
+  <testcase name="testGetOpponentPlayer_Player1Turn()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.003"/>
+  <testcase name="testGetOpponentPlayer_Player2Turn()" classname="fr.univ_amu.m1info.board_game_library.GameStateManagerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

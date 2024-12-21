@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.univ_amu.m1info.board_game_library.GameFlowManagerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-12T21:43:42" hostname="Moe" time="0.249">
+  <properties/>
+  <testcase name="testEndGame()" classname="fr.univ_amu.m1info.board_game_library.GameFlowManagerTest" time="0.217"/>
+  <testcase name="testStartGame()" classname="fr.univ_amu.m1info.board_game_library.GameFlowManagerTest" time="0.01"/>
+  <testcase name="testPlay()" classname="fr.univ_amu.m1info.board_game_library.GameFlowManagerTest" time="0.01"/>
+  <testcase name="testInitializeGameConfiguration()" classname="fr.univ_amu.m1info.board_game_library.GameFlowManagerTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
